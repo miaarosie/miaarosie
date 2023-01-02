@@ -34,5 +34,5 @@ Github : https://github.com/miaarosie
 >
 
 >[프로젝트 상세설명]
-[프로젝트 ](https://github.com/miaarosie/Study#readme)
+[](https://github.com/miaarosie/Study#readme)
 
