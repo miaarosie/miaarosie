@@ -26,7 +26,7 @@ Github : https://github.com/miaarosie
 
 ---
 ### 2. Keyboar-Der /K-Manager
->정산시스템,매출통계 등 다양한 서비스를 통한 판매자 맞춤형 오픈마켓 시스템<br>
+>정산시스템,매출통계 등 다양한 서비스를 제공하는 판매자 맞춤형 오픈마켓 시스템<br>
 >개발기간 : 2022.11.15 ~ 22.12.23
 
 >기술 스택 :
@@ -34,5 +34,5 @@ Github : https://github.com/miaarosie
 >
 
 >[프로젝트 상세설명]
-(https://github.com/miaarosie/Study#readme)
+[프로젝트 ](https://github.com/miaarosie/Study#readme)
 
