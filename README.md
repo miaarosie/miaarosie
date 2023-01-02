@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Team Project2
+## Keyboar-der / K-Manager
 수수료내역, 매출 등 다양한 형태의 정산데이터와 주문관련 데이터 등 <br>
 다양한 서비스를 제공하는 판매자 맞춤형 오픈마켓 시스템 웹사이트 제작
 
 ### 1. 프로젝트 기간
 ***
 + 프로젝트 기간 : 2022년 11월 15일 ~ 2022년 12월 23일
++ 팀원 수 : 6명
 
 ![20230102_121021](https://user-images.githubusercontent.com/114273783/210192719-41f99cb2-27b0-4ec8-a9b5-2826f0206d2e.png)
 
@@ -57,3 +59,5 @@ Here are some ideas to get you started:
 + GitHub
 
 ### 4. 화면설계 및 기능 구현
+
+
