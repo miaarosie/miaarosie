@@ -77,3 +77,31 @@ Here are some ideas to get you started:
 
 ### 5. 기능구현 :mag_right:
 ---
+#### 소비자(FO)
+
++ 회원가입 페이지
+![20230102_134435](https://user-images.githubusercontent.com/114273783/210195794-5a487d43-8b8d-47bf-85eb-ea671e24c6ce.png)
+:pencil2: 기능구현 설명 <br>
+
+  모든 약관에 동의 후 넘어간 회원가입 페이지에서 Ajax를 활용하여 아이디와 이메일 중복체크를 진행 후, <br>
+  다음 주소API를 사용하여 주소를 입력받고 JavaScript를 활용하여 입력받은 값에 대하여 모든 유효성 검사를 실행 후,<br>
+  조건이 충족되었을 때만 가입버튼이 활성화 되도록 기능구현을 하였습니다. <br>
+  googleSMTP서버를 사용하여 가입하기 버튼을 클릭 하였을 때 입력한 이메일로 인증메일이 발송되도록 진행하였고,<br>
+  이메일인증을 완료했을 때에만 로그인이 가능하도록 기능구현을 실행하였습니다.
+  
++ 로그인 / 로그아웃 페이지 
+
+<img src = "https://user-images.githubusercontent.com/114273783/210194537-0760b70b-c474-43d4-8321-b101cbbace26.png" width="50%" height="50%">
+
+:pencil2: 기능구현 설명 <br>
+  
++ 아이디 찾기 페이지
+![20230102_133413](https://user-images.githubusercontent.com/114273783/210195376-45a7b3ff-11b3-49a5-8b1a-57695314b593.png)
+
+:pencil2: 기능구현 설명 <br>
+  
++ 비밀번호 찾기 페이지
+
+![20230102_133116](https://user-images.githubusercontent.com/114273783/210195250-06a3b9fd-6525-46f0-b55c-ffa3ac76d7ba.png)
+
+:pencil2: 기능구현 설명 <br>
