@@ -90,10 +90,11 @@ Here are some ideas to get you started:
   이메일인증을 완료했을 때에만 로그인이 가능하도록 기능구현을 실행하였습니다.
   
 + 로그인 / 로그아웃 페이지 
-
-<img src = "https://user-images.githubusercontent.com/114273783/210194537-0760b70b-c474-43d4-8321-b101cbbace26.png" width="50%" height="50%">
-
+![20230102_140252](https://user-images.githubusercontent.com/114273783/210196500-a7eb1f61-0ac7-4a83-b3f7-4255dcf0b484.png)<br>
 :pencil2: 기능구현 설명 <br>
+  
+  소비자 로그인 페이지 화면입니다. <br>
+  
   
 + 아이디 찾기 페이지
 ![20230102_133413](https://user-images.githubusercontent.com/114273783/210195376-45a7b3ff-11b3-49a5-8b1a-57695314b593.png)
