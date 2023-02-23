@@ -35,5 +35,5 @@ Github : https://github.com/miaarosie
 >
 
 >[프로젝트 상세설명]
-[보기](https://github.com/miaarosie/Study/blob/main/READMEp2.md)
+[보기](https://github.com/miaarosie/keyboarder/blob/main/README.md)
 
