@@ -23,7 +23,7 @@ Github : https://github.com/miaarosie
 >
 
 >[프로젝트 상세설명]
-[보기](https://github.com/miaarosie/Study/blob/main/READMEp1.md)
+[보기](https://github.com/miaarosie/coconutpage/blob/main/README.md)
 
 ---
 ### 2. Keyboar-Der /K-Manager
